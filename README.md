@@ -1,6 +1,12 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-red)](https://spam-mail-detection-abhineet.streamlit.app/)
+
 
 #  Spam Mail Detection Using Machine Learning
+
+🚀 **Live Demo:** [Streamlit App](https://spam-mail-detection-abhineet.streamlit.app/)
+
 
 Spam mail detection is an important real-world application of Machine Learning and Natural Language Processing (NLP).
 This project focuses on building a machine learning model that classifies emails as Spam or Ham (Not Spam) using text-based features and probabilistic classification.
