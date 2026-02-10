@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 #  Spam Mail Detection Using Machine Learning
 
 Spam mail detection is an important real-world application of Machine Learning and Natural Language Processing (NLP).
@@ -111,6 +113,6 @@ Abhineet Kaur
 
 ---
 
-📜 License
+## 📜 License
+This project is licensed under the MIT License.
 
-This project is open for educational and learning purposes.
